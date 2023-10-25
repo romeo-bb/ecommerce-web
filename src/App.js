@@ -50,6 +50,7 @@ function App() {
         </Route>
         <Route path="categories/product/:id" element={<ProductPage />} />
         <Route path="/ContactUs" element={<ContactUs />} />
+        <Route path="*" element={<Home to="/" />} />
       </Routes>
     </CartContext.Provider>
   );
