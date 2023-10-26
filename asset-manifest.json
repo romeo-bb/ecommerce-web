@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommerce-web/static/css/main.8ce7c9c4.css",
-    "main.js": "/ecommerce-web/static/js/main.2974156f.js",
+    "main.css": "/ecommerce-web/static/css/main.0d35fbee.css",
+    "main.js": "/ecommerce-web/static/js/main.65584827.js",
     "static/media/bodyoil1.jpg": "/ecommerce-web/static/media/bodyoil1.df87658baed4f2785f85.jpg",
     "static/media/14.png": "/ecommerce-web/static/media/14.a674c36b5a4aa0bb7377.png",
     "static/media/9.png": "/ecommerce-web/static/media/9.c6d969e8587dd1042095.png",
@@ -68,11 +68,11 @@
     "static/media/copenhagen1.webp": "/ecommerce-web/static/media/copenhagen1.39e6de3d2e09d6e5f7ef.webp",
     "static/media/blackandwhite2.webp": "/ecommerce-web/static/media/blackandwhite2.1dac1e8c88ee5d5f213b.webp",
     "index.html": "/ecommerce-web/index.html",
-    "main.8ce7c9c4.css.map": "/ecommerce-web/static/css/main.8ce7c9c4.css.map",
-    "main.2974156f.js.map": "/ecommerce-web/static/js/main.2974156f.js.map"
+    "main.0d35fbee.css.map": "/ecommerce-web/static/css/main.0d35fbee.css.map",
+    "main.65584827.js.map": "/ecommerce-web/static/js/main.65584827.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ce7c9c4.css",
-    "static/js/main.2974156f.js"
+    "static/css/main.0d35fbee.css",
+    "static/js/main.65584827.js"
   ]
 }
